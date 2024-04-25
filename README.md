@@ -14,11 +14,11 @@ Run by
 - Build and run using the command line:
 
 ```
-dotnet run sample-csharp-vcp.sln
+dotnet run sample-cppdotnet-vcp.sln
 ```
 
 ## Sample output
-<img src="https://github.com/Dracaltech/sample-cppdotnet-cli/assets/1357711/31bd5adb-2336-4b0b-aab7-590e1b9f901a" width=400 />
+<img src="https://github.com/Dracaltech/sample-cppdotnet-vcp/assets/1357711/4abf44bc-8085-4577-bdca-5e50bfd5ab5b" width=400 />
 
 ```
 Awaiting info line...
